@@ -16,6 +16,9 @@ npm install react-modal-jcto
 
 ## 3. Usage
 
+import Modal from 'react-modal-jcto'
+Use as react component : <Modal />
+
 ### Text content
 
 Use the prop **modalText** and pass in your modal text as a string 
