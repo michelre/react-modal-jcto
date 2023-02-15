@@ -1,6 +1,6 @@
 # react-modal-jcto
 
-A simple responsive and customizable modal for React projects
+A simple responsive and customizable modal for React projects.
 
 ![Project Image](./images/mobile.png)
 
@@ -20,7 +20,7 @@ npm install react-modal-jcto
 
 Use the prop **modalText** and pass in your modal text as a string 
 
-###Styling 
+### Styling 
 
 Use the following props:
 
