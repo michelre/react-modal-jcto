@@ -16,19 +16,24 @@ npm install react-modal-jcto
 
 ## 3. Usage
 
-Styling and text content is passed on the compnent via 5 props:
+### Text content
 
-modalBackgroundStyle: pass inline styling for modal background
+Use the prop **modalText** and pass in your modal text as a string 
 
-modalBodyStyle: pass inline styling for modal body
+###Styling 
 
-modalButtonStyle: pass inline styling for modal close button
+Use the following props:
 
-closeModalFunction: point your modal close function
+**modalBackgroundStyle:** pass inline styling for modal background
 
-modalTextStyle: pass inline styling for modal text
+**modalBodyStyle:** pass inline styling for modal body
 
-modalText: pass you modal text as a string 
+**modalButtonStyle:** pass inline styling for modal close button
+
+**closeModalFunction:** point your modal close function
+
+**modalTextStyle:** pass inline styling for modal text
+
 
 ## 3. Example
 
