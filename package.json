@@ -1,0 +1,23 @@
+{
+  "name": "react-modal-jcto",
+  "version": "1.0.0",
+  "description": "A simple responsive and customizable modal for React projects",
+  "main": "react-modal-jcto.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanchaneto/react-modal-jcto.git"
+  },
+  "author": "Jean Chane-to",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanchaneto/react-modal-jcto/issues"
+  },
+  "homepage": "https://github.com/jeanchaneto/react-modal-jcto#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
